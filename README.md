@@ -1,6 +1,9 @@
 # RecognizeMe!
 An Image Recognition Search Engine for Wikipedia
 
+![Opening Image Screen](opening_image)
+![Resulting Image Screen with German Shepard](final_image)
+
 NOTE: To run code in file predictionengine.py Python 3.7 MUST be used (due to versions of libraries and dependencies)
 
 Use the following terminal command to run: python3.7 predictionengine.py
